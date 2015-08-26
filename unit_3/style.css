@@ -1,9 +1,10 @@
 body {background-color: MintCream;}
 	{text-align: center;}
-h1 {font-family: Helvetica;}
+h1 {font-family: Cambria;}
 	{font-size: 24px;}
-p {font-family: Helvetica;}
+p {font-family: Cambria;}
 	{font-size: 16px;}
+ul {font-family: Cambria;}
 #slogan {
 	font-style: italic;
 }
