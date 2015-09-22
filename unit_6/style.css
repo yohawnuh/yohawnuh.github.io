@@ -1,0 +1,39 @@
+img.center {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 3em;
+  width: 700px
+}
+
+nav {
+  text-align: center;
+  position: relative;
+}
+
+a {
+  background-color: rgba(38, 221, 185,.8);
+  color: white;
+  text-decoration: none;
+  height: 150px;
+  width: 150px;
+  line-height: 150px;
+  font-size: 25px;
+  font-family: Arial;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+a:hover {
+  background-color: rgba(1, 132, 117,1.0);
+}
+
+.stripe {
+  background-color: rgba(100,100,100,.7);
+  height: 60px;
+  position: absolute;
+  top: 70px;
+  width: 100%;
+  z-index: -1;
+}
