@@ -66,12 +66,21 @@ a {
 }
 
 @media only screen and (max-width: 320px) {
+  nav a {
+  font-size: 1em;
+  text-decoration: none;
+  background-color: rgba(125,247,236,.85);
+  margin: 0 2px 5px 2px;
+  position: relative;
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
   .myname {
-  font-size: 1.2em;
+  font-size: 1em;
   float: none;
   }
   a {
-    font-size: 1em;
+    font-size: 0.8em;
     height: 45px;
     width: 45px;
     line-height: 45px;
