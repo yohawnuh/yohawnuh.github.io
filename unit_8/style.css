@@ -54,14 +54,13 @@ a {
 @media only screen and (max-width: 480px) {
   .myname {
   font-size: 1.4em;
-  float: none;
   }
   a {
     font-size: 1em;
     height: 60px;
     width: 60px;
     line-height: 60px;
-    margin: 10px 30px 10px 10px;
+    margin: 10px 30px 30px 10px;
   }
 }
 
@@ -78,14 +77,13 @@ a {
   }
   .myname {
   font-size: 1em;
-  text-align: right;
   }
   a {
     font-size: 0.8em;
     height: 45px;
     width: 45px;
     line-height: 45px;
-    margin: 15px 8px 15px 3px;
+    margin: 15px 8px 30px 3px;
   }
 }
   
