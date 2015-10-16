@@ -1,0 +1,81 @@
+#socialnav {
+  text-align: left;
+  position: relative;
+}
+nav a {
+  color:black;
+  font-size: 1.5em;
+  text-decoration: none;
+  background-color: rgba(125,247,236,.85);
+  margin: 0 5px 8px 5px;
+  position: relative;
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+}
+
+.myname {
+  font-size: 1.8em;
+  font-weight: bold;
+  float: right;
+}
+
+footer {
+  text-align: center;
+  clear: both;
+}
+
+img {
+	display: block;
+  clear: both;
+  width: 100%;
+  height: auto;
+}
+
+.homenav {
+  text-align: center;
+  position: relative;
+}
+a {
+  font-size: 1.5em;
+  text-decoration: none;
+  background-color: rgba(222,165,232,.85);
+  height: 100px;
+  width: 100px;
+  line-height: 100px;
+  margin: 15px 50px 90px 10px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+@media only screen and (max-width: 480px) {
+  .myname {
+  font-size: 1.4em;
+  float: none;
+  }
+  a {
+    font-size: 1em;
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+    margin: 10px 30px 10px 10px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .myname {
+  font-size: 1.2em;
+  float: none;
+  }
+  a {
+    font-size: 1em;
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+    margin: 10px 30px 10px 10px;
+  }
+}
+  
