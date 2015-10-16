@@ -75,12 +75,13 @@ a {
   height: 30px;
   width: 30px;
   line-height: 30px;
+  }
   .myname {
   font-size: 1em;
   float: none;
   }
   a {
-    font-size: 0.8em;
+    font-size: 0.6em;
     height: 45px;
     width: 45px;
     line-height: 45px;
