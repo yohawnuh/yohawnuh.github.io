@@ -78,14 +78,13 @@ a {
   }
   .myname {
   font-size: 1em;
-  float: none;
   }
   a {
-    font-size: 0.6em;
+    font-size: 0.8em;
     height: 45px;
     width: 45px;
     line-height: 45px;
-    margin: 2px 3px 3px 6px;
+    margin: 2px 3px 8px 3px;
   }
 }
   
